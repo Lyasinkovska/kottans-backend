@@ -4,3 +4,7 @@ I am excited to learn basics of Git and Github. The information now is structure
 ## Unix Shell
 https://github.com/Lyasinkovska/kottans-backend/tree/master/task_unix_shell
 Everything was new for me as I'm a new learner. I suppose I'll be using a lot of information provided by the course.
+
+## Git Collaboration
+https://github.com/Lyasinkovska/kottans-backend/tree/master/task_git_collaboration
+I was suprised of how powerful Git is)
