@@ -8,3 +8,7 @@ Everything was new for me as I'm a new learner. I suppose I'll be using a lot of
 ## Git Collaboration
 https://github.com/Lyasinkovska/kottans-backend/tree/master/task_git_collaboration
 I was suprised of how powerful Git is)
+
+## Python Basics 1
+https://www.hackerrank.com/Lyasinkovska
+
